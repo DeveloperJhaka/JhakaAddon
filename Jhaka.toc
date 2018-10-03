@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Jhaka
+## Version: 0.1
+## Notes: AddOn
+## Author: Jhaka
+## SavedVariables: Jhaka_Settings, Jhaka_LevelTime
+Jhaka.lua
+Jhaka.xml
